@@ -1,7 +1,7 @@
 
 DevOps Home Assignment:
 
-create a Terraform configuration named main.tf to build a foundational infrastructure on AWS for Kubernetes deployment using Minikube.
+I created a Terraform configuration named main.tf to build a foundational infrastructure on AWS for Kubernetes deployment using Minikube.
 This setup involves crafting a single VPC for all environments, encompassing two subnets - one public and one private.
 A NAT Gateway is crucial in this architecture for enabling internet connectivity, which facilitates the EC2 instance within the private subnet to access online resources, necessary for downloading and installing Minikube.
 
