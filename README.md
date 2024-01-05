@@ -33,3 +33,8 @@ Kubernetes Deployment:
 
 
 ![Kubernetes-Deployment](https://github.com/NextGen20/moveo/assets/71230554/3f0f1af3-42a5-4751-9e76-8b59161acf8e)
+
+My-local-machine-nginx:
+
+![my-local-machine](https://github.com/NextGen20/moveo/assets/71230554/4ae00111-c901-4a33-82cc-29b9a4a8b9ab)
+
