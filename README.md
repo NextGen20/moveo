@@ -19,7 +19,11 @@ This requires writing a YAML configuration file that specifies the deployment de
 To make the Nginx server accessible externally, an additional service configuration, such as NodePort or LoadBalancer, is defined in another YAML file.
 
 
+minikube start & config :
+
 ![minikube-start](https://github.com/NextGen20/moveo/assets/71230554/6a7630cd-cd5f-4ff2-b545-d4ae502f8144)
 ![minikube-status](https://github.com/NextGen20/moveo/assets/71230554/75583316-de2b-4141-b85e-d42c4bca2e57)
+
+Kubernetes Deployment:
 
 ![Kubernetes Deployment](https://github.com/NextGen20/moveo/assets/71230554/ba81bedc-30c1-40c0-ab04-3fbc629f424d)
