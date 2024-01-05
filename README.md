@@ -18,6 +18,11 @@ The final phase of the assignment is centered around the deployment and external
 This requires writing a YAML configuration file that specifies the deployment details, including the use of a custom Docker image hosted on Docker Hub.
 To make the Nginx server accessible externally, an additional service configuration, such as NodePort or LoadBalancer, is defined in another YAML file.
 
+Aws diagram:
+
+![diagram](https://github.com/NextGen20/moveo/assets/71230554/ca874082-3ee2-4763-9a73-50657f1c8dc9)
+
+
 
 minikube start & config :
 
