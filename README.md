@@ -24,7 +24,8 @@ Aws diagram:
 
 Docker Containerization:
 
-![Docker-image](https://github.com/NextGen20/moveo/assets/71230554/0fe8b9d1-fe46-4beb-b8a9-e32777b2b1b1)
+
+![docker-image](https://github.com/NextGen20/moveo/assets/71230554/39d2f19f-0cee-4fdd-8102-41bc6bb48b39)
 
 
 
