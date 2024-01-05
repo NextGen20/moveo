@@ -24,7 +24,9 @@ Aws diagram:
 
 Docker Containerization:
 
-file:///home/amit/Pictures/Screenshots/Docker-image.jpeg
+![Docker-image](https://github.com/NextGen20/moveo/assets/71230554/0fe8b9d1-fe46-4beb-b8a9-e32777b2b1b1)
+
+
 
 ![docker-run](https://github.com/NextGen20/moveo/assets/71230554/632cce69-c364-4e1b-a169-086c0b2f04d8)
 
