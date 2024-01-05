@@ -31,4 +31,5 @@ minikube start & config :
 
 Kubernetes Deployment:
 
-![Kubernetes Deployment](https://github.com/NextGen20/moveo/assets/71230554/ba81bedc-30c1-40c0-ab04-3fbc629f424d)
+
+![Kubernetes-Deployment](https://github.com/NextGen20/moveo/assets/71230554/3f0f1af3-42a5-4751-9e76-8b59161acf8e)
